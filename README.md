@@ -71,8 +71,3 @@ Pronto! Assim, você fez um pedido completo no Subway. Se precisar de mais algum
 
 ## 💭 Reflexão (Opcional)
 É interessante ver o quão longe a tecnologia chegou em questão de IA.
-
-### Exemplos e Insigths
-
-## Links Interessantes
-
