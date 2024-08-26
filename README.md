@@ -12,7 +12,7 @@ Nesse projeto, explorei o uso do criador de imagens do Microsoft Bing e também 
 
 ## 🧐 Processo de Criação
 No gerador de imagens do Microsoft Bing, entreguei a prompt "um robô extremamente realista mexendo no computador, resultando em 4 imagens.
-No ChatGPT, entreguei a prompt 
+No ChatGPT, entreguei a prompt "Você é um atendente do Subway. Me faça um tutorial passo-a-passo de como fazer um pedido de sanduíche no Subway usando linguagem indicativa do seu papel nessa interação."
 
 ## 🚀 Resultados
 No gerador de imagens do Microsoft Bing:
